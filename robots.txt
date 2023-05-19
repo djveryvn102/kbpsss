@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kbps.tv/sitemap.xml
